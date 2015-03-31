@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Checkbox</string>
+
+    <string name="label_a">Ingrese primer numero</string>
+    <string name="label_b">Ingrese segundo numero</string>
+    <string name="action_settings">Settings</string>
+    <string name="suma">SUMA</string>
+    <string name="resta">RESTA</string>
+    <string name="div">DIVISION</string>
+    <string name="mul">MULTIPLICACION</string>cc
+    <string name="label_c">OPERAR</string>
+    <string name="label_d">Resultado: </string>
+</resources>

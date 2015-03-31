@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="titulo">Control Spinner</string>
+    <string name="suma">SUMA</string>
+    <string name="resta">RESTA</string>
+    <string name="multi">MULTIPLICACION</string>
+    <string name="div">DIVISION</string>
+    <string name="label_a">Introduce primer valor</string>
+    <string name="label_b">Introduce segundo valor</string>
+    <string name="resultado"> </string>
+    <string name="ope">OPERAR</string>
+    <string name="action_settings">Settings</string>
+</resources>

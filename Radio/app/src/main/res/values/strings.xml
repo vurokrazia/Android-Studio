@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Radio</string>
+    <string name="titulo">Radio Groups</string>
+    <string name="suma">suma</string>
+    <string name="resultado">resultado</string>
+    <string name="resta">resta</string>
+    <string name="mul">multiplicacion</string>
+    <string name="div">division</string>
+    <string name="label_a">Ingresa primer valor</string>
+    <string name="label_b">Ingresa segundo valor</string>
+    <string name="action_settings">Settings</string>
+</resources>

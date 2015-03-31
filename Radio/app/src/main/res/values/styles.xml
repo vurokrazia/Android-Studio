@@ -1,0 +1,29 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:background">#dda7ee00</item>
+    </style>
+    <style name="label" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">#fff</item>
+        <item name="android:height">30px</item>
+    </style>
+    <style name="input" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">#fda20500</item>
+        <item name="android:height">32443px</item>
+        <item name="android:background">#dd71b3ee</item>
+        <item name="android:paddingBottom">3px</item>
+        <item name="android:paddingTop">3px</item>
+    </style>
+    <style name="tittle" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">#fda20500</item>
+        <item name="android:height">38px</item>
+    </style>
+    <style name="radio" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">#fff</item>
+        <item name="android:height">28px</item>
+    </style>
+
+    <style name="group" parent="Theme.AppCompat.Light">
+        <item name="android:background">#dd029eee</item>
+    </style>
+</resources>
