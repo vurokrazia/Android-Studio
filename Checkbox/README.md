@@ -1,0 +1,1 @@
+Ejemplo con casillas (checkbox)
