@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Developers Multiplataform</string>
+    <string name="action_settings">Configuraciones</string>
+
+    <string name="title_section_0">Bienvenidos</string>
+    <string name="title_section_a">Inicio</string>
+    <string name="title_section_1">Cursos</string>
+    <string name="title_section_2">Acerca de</string>
+    <string name="title_section_3">Iniciar Sesion</string>
+    <string name="title_section_4">Salir</string>
+    <string name="title_section_5">Temario</string>
+    <string name="title_section_6">Registrarse</string>
+
+
+    <string name="title_activity_menu_cursos">Cursos Disponibles</string>
+    <string name="title_activity_curso">YoLo</string>
+
+    <string name="curso_0">Cursos disponibles</string>
+    <string name="curso_1">Curso de HTML</string>
+    <string name="curso_2">Curso de CSS3</string>
+    <string name="curso_3">Curso de HTML Avanzado</string>
+
+    <string name="title_activity_layout_cursos">Cursos Disponibles</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_acerca_de">Acerca de</string>
+    <string name="title_activity_usuarios">Usuarios</string>
+    <string name="title_activity_tema">Tema</string>
+    <string name="title_activity_inicio">inicio</string>
+    <string name="title_activity_loin">Iniciar Sesion</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="title_section1">Usuario</string>
+    <string name="title_section2">Password</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="restaurar">Restaurar Campos</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_inicio_sesion">Iniciar Sesion</string>
+</resources>
+

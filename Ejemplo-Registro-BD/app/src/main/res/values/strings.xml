@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registro Online</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellidos</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrauno">contraseña</string>
+    <string name="contrados">Repita su contraseña</string>
+    <string name="estado">Estado</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="twitter">Twitter</string>
+    <string name="fb">Facebook</string>
+    <string name="edad">Edad</string>
+    <string name="leyenda">Todos los campos son obligatorios</string>
+    <string name="action_settings">Settings</string>
+</resources>

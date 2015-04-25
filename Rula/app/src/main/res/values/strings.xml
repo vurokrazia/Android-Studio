@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rula</string>
+
+    <string name="A">A rulo!</string>
+    <string name="no">No</string>
+    <string name="le">vayan</string>
+    <string name="a">a</string>
+    <string name="comprar">comprar</string>
+    <string name="nada">nada</string>
+    <string name="porque">por que no</string>
+    <string name="regala">regala calendarios</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dos">dos</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>

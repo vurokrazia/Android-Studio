@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Developers_2</string>
+
+    <string name="title_section_1">Home</string>
+    <string name="title_section_2">Cursos</string>
+    <string name="title_section_3">Acerda de</string>
+    <string name="title_section_4">usuario</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Configuraciones</string>
+    <string name="curso_1">Curso de HTML</string>
+    <string name="curso_2">Curso de CSS3</string>
+    <string name="curso_3">Curso de HTML Avanzado</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_layout_curso">layout_curso</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_curso_html">curso_html</string>
+    <string name="title_activity_layout_cursos_html">layout_cursos_html</string>
+    <string name="title_activity_acerca_de">acerca_de</string>
+</resources>
